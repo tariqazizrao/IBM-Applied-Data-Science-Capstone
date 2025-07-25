@@ -1,7 +1,5 @@
 # IBM-Applied-Data-Science-Capstone
 
-# IBM Applied Data Science Capstone 🚀
-
 ## Predicting SpaceX Falcon 9 First-Stage Landing Success Using Machine Learning
 
 This capstone project, part of the IBM Data Science Professional Certificate on Coursera, demonstrates the practical application of data science skills through a real-world scenario. The objective is to **predict the success of SpaceX Falcon 9 first-stage landings**, which directly impacts launch costs and operational planning.
